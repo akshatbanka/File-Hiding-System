@@ -1,0 +1,1 @@
+create database emp_db;
